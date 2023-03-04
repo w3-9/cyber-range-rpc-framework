@@ -1,0 +1,3 @@
+log=org.young.irpc.framework.core.filter.client.impl.ClientLogFilterImpl
+group=org.young.irpc.framework.core.filter.client.impl.GroupFilterImpl
+directinvoke=org.young.irpc.framework.core.filter.client.impl.DirectInvokeFilterImpl

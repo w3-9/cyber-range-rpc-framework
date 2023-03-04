@@ -1,0 +1,2 @@
+random=org.young.irpc.framework.core.router.impl.RandomRouterImpl
+rotate=org.young.irpc.framework.core.router.impl.RotateRouteImpl
